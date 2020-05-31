@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: myweb-con
-        image: arnab83/phpweb1:latest             
+        image: arnab83/phpweb1             
